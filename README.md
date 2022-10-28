@@ -1,11 +1,11 @@
-![MasterHead](https://res.cloudinary.com/dd77bcaju/image/upload/v1666945086/Hasnine%20images/mdhasninesheak_1_e7zeuw.png)
+![MasterHead](https://res.cloudinary.com/dd77bcaju/image/upload/v1666946110/Hasnine%20images/mdhasnineseheak_gmail.com_1_q8172z.png)
 
-<h1 align="center">Hi 👋, I'm Muhammad Hasnine</h1>
+<h1 align="center">Hi There, I'm Muhammad Hasnine</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on **MERN Ecommerce**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Node js, GraphQL and React Native**
 
 - 👨‍💻 All of my projects are available at [https://muhammadhasnine.vercel.app/](https://muhammadhasnine.vercel.app/)
 
