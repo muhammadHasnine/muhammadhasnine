@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js 13 and React Native**
 
-- 👨‍💻 All of my projects are available at [https://muhammadhasnine.vercel.app/](https://muhammadhasnine.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hasnine.vercel.app/](https://hasnine.vercel.app/)
 
 - 💬 Ask me about **javaScript react js, next js, node js, tailwind, mongo db, express js**
 
